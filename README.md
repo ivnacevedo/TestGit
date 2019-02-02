@@ -1,6 +1,6 @@
 # Git Tutorial
 
-----------
+
 
 ## Section: 1 Introduction
 
@@ -53,7 +53,6 @@
 
 # GitHub Tutorial
 
-----------
 
 
 ## Section: 6 Welcome to GitHub
