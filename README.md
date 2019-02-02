@@ -1,4 +1,4 @@
-##Section: 1 Introduction
+#Section: 1 Introduction
 
 1. Course Welcome
 
